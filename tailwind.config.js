@@ -7,11 +7,11 @@ module.exports = {
     },
     extend: {
       colors:{
-        primary: '#ffffff',
+        primary: '#FF0000',
         secondary: '#6D6D6D',
       },
       fontFamily: {
-        'myriadpro': ['myriadpro', 'sans-serif'],
+        'futura': ['futura', 'sans-serif'],
       },
     },
   },
